@@ -13,5 +13,9 @@
 4.	Navigate to the project directory and install the required dependencies for the project by running the following command in your terminal: npm install --save @nestjs/typeorm typeorm mysql2 
 5.	Start the nestjs server with ‘npm run start’ to confirm its working properly
 
-
+(Image of Homepage)
 ![chams](https://user-images.githubusercontent.com/35727521/224963371-1324188e-043f-479b-be48-98389f59ed0e.jpg)
+
+
+(Image of MySql Database)
+![sql](https://user-images.githubusercontent.com/35727521/224967537-77a51994-6297-4010-b999-f61fc5a13ac3.jpg)
